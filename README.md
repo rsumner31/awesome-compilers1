@@ -278,6 +278,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Pest](https://github.com/pest-parser/pest) - A PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
 
+  * [Cecile](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/).
+  * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/).
+  * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/).
 
 ## Runtimes and VMs
 
