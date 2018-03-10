@@ -233,6 +233,11 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - A .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - An an assembly editor which can be used as a plugin with other .NET/CLR tools.
 
+### Go
+
+  * [goyacc](https://godoc.org/golang.org/x/tools/cmd/goyacc) - YACC Implementation in Go. Standard LALR(1) parser generator.
+  * [LLVM Go binding](https://godoc.org/llvm.org/llvm/bindings/go/llvm) - Official Go LLVM binding.
+
 ### Graal
 
   * [Graal](https://github.com/graalvm/graal) - High-Performance Polyglot Runtime.
