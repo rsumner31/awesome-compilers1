@@ -391,6 +391,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Runtimes and VMs
 
+  * [Erlang BEAM](https://github.com/erlang/otp).
   * [CakeML](https://github.com/CakeML/cakeml).
   * [CoreCLR](https://github.com/dotnet/coreclr) - The .NET's Common Language Runtime.
   * [Erlang BEAM](https://github.com/erlang/otp).
