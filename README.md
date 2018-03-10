@@ -21,7 +21,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
      + [Language Agnostic](#language-agnostic)
      + [C (as a Backend)](#c-as-a-backend)
      + [CLR](#clr)
-     + [D](#d)
      + [Graal](#graal)
      + [JavaScript](#javascript)
      + [JVM](#jvm)
@@ -193,7 +192,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
     + [Lua's Annotated Source Code](http://stevedonovan.github.io/lua-5.1.4/).
   * [Nim Language Compiler](https://github.com/nim-lang/Nim).
   * [Red Programming Language](https://github.com/red/red).
-  * [TypeScript Language Compiler](https://github.com/Microsoft/TypeScript).
 
 ### Educational and Toys
 
@@ -231,14 +229,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [ILSpy](http://ilspy.net) - A .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - A .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - An an assembly editor which can be used as a plugin with other .NET/CLR tools.
-  
-### D
-
-  * [dunnart](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator.
-  * [FancyPars-lite](https://github.com/UplinkCoder/FancyPars-lite) - A fast parser generator.
-  * [libdparse](https://github.com/dlang-community/libdparse) - A library allowing to build lexers and parsers. Contains a lexer and a parser for the D language itself.
-  * [llvm-d](https://github.com/Calrama/llvm-d) - D bindings for LLVM.
-  * [Pegged](https://github.com/PhilippeSigaud/Pegged) - design, test and generate parsers for PEG grammars.
 
 ### Graal
 
@@ -248,7 +238,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### JavaScript
 
-  * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [IRHudra](http://mrale.ph/irhydra/2/) - A tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - a context-free grammar parser generator for JavaScript.
@@ -306,7 +295,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
-  * [Resources for Amateur Compiler Writers](https://c9x.me/compile/bib/).
   * [SSA Form Bibliography](http://www.dcs.gla.ac.uk/~jsinger/ssa.html).
   * [Summer Schools](https://gist.github.com/biboudis/377b4a4de4d1718df2d0).
   * [The Witchcraft Compiler Collection](https://github.com/endrazine/wcc).
