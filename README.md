@@ -149,6 +149,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Type-Driven Development with Idris](https://www.youtube.com/watch?v=X36ye-1x_HQ).
   * [Understanding Compiler Optimization](https://www.youtube.com/watch?v=FnGCDLhaxKU).
 
+
 ### Articles
 
   * [Accidentally Turing Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html).
@@ -159,12 +160,14 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
 
+
 ### Tutorials
 
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
+
 
 ### Community Discussions
 
