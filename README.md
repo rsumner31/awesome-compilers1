@@ -64,6 +64,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + Discussions: [HN](https://news.ycombinator.com/item?id=813133).
   * [Engineering a Compiler, K. Cooper, L. Torczon](https://www.amazon.com/dp/012088478X).
   * [Essentials of Programming Languages, D. Friedman & M. Wand](https://www.amazon.com/dp/0262062798).
+  * [Instruction Level Parallelism, A. Aiken, U. Banerjee, A. Kejariwal, A. Nicolau](https://www.amazon.com/dp/1489977953) - A book about Instruction Level Parallelism (ILP) compilation techniques.
   * [Language Implementation Patterns, T. Parr](https://www.amazon.com/dp/193435645X).
   * [Modern Compiler Implementation in ML, A. Appel](https://www.cs.princeton.edu/~appel/modern/ml/).
     + Other editions: [MCI in C](https://www.cs.princeton.edu/~appel/modern/c/), [MCI in Java](https://www.cs.princeton.edu/~appel/modern/java/).
