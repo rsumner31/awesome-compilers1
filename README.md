@@ -85,8 +85,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Virtual Machines, Smith and Nait](https://www.amazon.com/dp/1558609105).
   * [Virtual Machines, Iain Craig](https://www.amazon.com/dp/1852339691).
   * [Writing an Interpreter in Go, T. Ball](https://interpreterbook.com/).
-  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/dp/0470177071).
-    + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/dp/0471113530), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/dp/0471555800).
+  * [Writing Compilers and Interpreters: A Software Engineering Approach](https://www.amazon.com/Writing-Compilers-Interpreters-Software-Engineering/dp/0470177071).
+    + Other editions: [Writing Compilers and Interpreters: An Applied Approach Using C++](https://www.amazon.com/Writing-Compilers-Interpreters-Ronald-Mak/dp/0471113530/ref=pd_sim_14_1?_encoding=UTF8&pd_rd_i=0471113530&pd_rd_r=B6GV91KRWBKTNQ13D3G8&pd_rd_w=3Xbmd&pd_rd_wg=120tO&psc=1&refRID=B6GV91KRWBKTNQ13D3G8), [Writing Compilers and Interpreters: An Applied Approach Using C](https://www.amazon.com/Writing-Compilers-Interpreters-Applied-Approach/dp/0471555800/ref=sr_1_fkmr0_4?s=books&ie=UTF8&qid=1496157877&sr=1-4-fkmr0&keywords=Writing+Compilers+and+Interpreters+c).
 
 
 #### Advanced
@@ -117,7 +117,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + Other editions: [Neat and nice typeset](https://github.com/jaseemabid/micromanual).
   * [A Prolog Interpreter in Python, C. Bolz](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.121.8625&rep=rep1&type=pdf).
   * [A Simple Multi-Processor Computer Based on Subleq, O. Mazonka, A. Kolodin](https://arxiv.org/abs/1106.2593).
-  * [An Evil Copy: How the Loader Betrays You](http://www.cse.psu.edu/~trj1/papers/ndss17.pdf) - About security issues related to Dynamic Loading.
   * [An Incremental Approach to Compiler Construction](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf).
   * [Compiler Construction Using Scheme, E. Hilsdale, J. Ashley, R. Dybvig & D. Friedman](https://www.cs.indiana.edu/~dyb/pubs/fple95.pdf).
   * [Compiling with Continuations: Continued, A. Kennedy](https://www.microsoft.com/en-us/research/wp-content/uploads/2007/10/compilingwithcontinuationscontinued.pdf).
@@ -240,7 +239,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### Tutorials
 
   * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/).
-  * [A Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html) - Tutorial for helping C & C++ programmers understand the essentials of what the linker does.
   * [Algorithm W Step By Step](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
@@ -425,7 +423,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [MetaScala](https://github.com/lihaoyi/Metascala) - Metacircular JVM implementation in Scala.
   * [mini-js](https://github.com/maierfelix/mini-js) - Experimental self-hosted JavaScript compiler in 1K LoC.
   * [MunVM](https://github.com/MunVM/MunVM) - Lua VM & Compiler in C.
-  * [MY-BASIC](https://github.com/paladin-t/my_basic) - An embeddable BASIC dialect interpreter in C with modern paradigms.
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
@@ -469,7 +466,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Verticals
 
-  * [68 Resources for Creating Programming Languages](https://tomassetti.me/resources-create-programming-languages/).
   * [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis).
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
