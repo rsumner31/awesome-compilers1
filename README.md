@@ -94,7 +94,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [The Essence of Compiling with Continuations, C. Flanagan, A. Sabry, B. Duba & M. Felleisen](https://users.soe.ucsc.edu/~cormac/papers/pldi93.pdf).
   * [The Page-Faults Weird Machine: Lessons in Instruction-less Computation, J. Bangert, S. Bratus, R. Shapiro, S. Smith](https://www.usenix.org/system/files/conference/woot13/woot13-bangert.pdf).
   * [Trace-based JIT Compilation for Lazy Functional Languages, T. Schilling](http://files.catwell.info/misc/mirror/tracing-jit-haskell-schilling.pdf).
-  * [Using Datalog with Binary Decision Diagrams for Program Analysis, J. Whaley, D. Avots, M. Carbin & M. Lam](https://people.csail.mit.edu/mcarbin/papers/aplas05.pdf).
 
 #### Researchers and Institutes
 
@@ -160,7 +159,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 3 - LLVM](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/).
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
-  * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
 
 ### Tutorials
 
@@ -171,7 +169,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 
 ### Community Discussions
 
-  * [Can we stop recommending the Dragon Book, please?](https://meta.stackexchange.com/questions/25840/can-we-stop-recommending-the-dragon-book-please) - A StackExchange thread criticising the [Dragons Book](https://www.amazon.com/dp/0321486811).
   * [Difference between an LL and Recursive Descent parser?](http://stackoverflow.com/questions/1044600/difference-between-an-ll-and-recursive-descent-parser) - StackOverflow question.
   * Does a compiler use all x86 instructions? - [@HN](https://news.ycombinator.com/item?id=12352959), [@Reddit](https://redd.it/4zgawj) - Article discussions on HN and Reddit.
   * [How to Write a Compiler](https://redd.it/4o7qag) - Article discussion on Reddit.
@@ -202,18 +199,9 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
     + Discussions: [HN](https://news.ycombinator.com/item?id=8558822).
-  * [CarpVM](https://github.com/tekknolagi/carp) - An experimental VM implementation in C.
-  * [Gecho](https://github.com/tekknolagi/gecho) - A simple-stack language implementation in C.
   * [Hython](https://github.com/mattgreen/hython) - A Haskell-powered Python 3 interpreter.
     + Discussions: [Reddit](https://redd.it/46f8j4).
-  * [MetaScala](https://github.com/lihaoyi/Metascala) - A Metacircular JVM implementation in Scala.
-  * [Poprc](https://github.com/HackerFoo/poprc) - A compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - A compiler for the COOL Programming Language written in Python 3.
-  * [RabbitVM](https://github.com/rabbitvm/rabbit) - A RISC-based VM implementation in C.
-  * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - a Stack-machine simulator.
-  * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - a tiny educational compiler project in JavaScript.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
-  * [tinyc.c](http://www.iro.umontreal.ca/~felipe/IFT2030-Automne2002/Complements/tinyc.c) - A Tiny-C language compiler in C.
 
 
 ## Tools and Frameworks
@@ -297,11 +285,10 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Combine](https://github.com/Marwes/combine) - Parser Combinator Library for Rust.
   * [IronLLVM](https://github.com/jauhien/iron-llvm) - Safe LLVM bindings for Rust.
-  * [LALRPOP](https://github.com/nikomatsakis/lalrpop) -  LR(1) parser generator for Rust
   * [Nom](https://github.com/Geal/nom) - Parser Combinator Framework.
-  * [PEG](https://github.com/kevinmehall/rust-peg) - A PEG Parser Generator.
   * [Pest](https://github.com/pest-parser/pest) - A PEG Parser Generator.
   * [RLS](https://github.com/rust-lang-nursery/rls) - The Rust Language Server implementation (aka RLS).
+
 
 ## Runtimes and VMs
 
