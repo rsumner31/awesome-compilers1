@@ -301,6 +301,10 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [PCC](http://pcc.ludd.ltu.se/) - The Portable C Compiler (C as a Backend).
   * [TCC](http://bellard.org/tcc/) - The Tiny C Compiler (C as a Backend).
 
+### C++
+  
+  * [AsmJIT](https://github.com/asmjit/asmjit) - Complete x86/x64 JIT and Remote Assembler for C++.
+
 ### CLR
 
   * [Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - Library to generate and inspect programs and libraries in the ECMA CIL format.
