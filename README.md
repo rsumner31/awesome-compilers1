@@ -1,10 +1,6 @@
-# ![AWESOME COMPILERS](img/awesome-compilers.png)
+# Awesome Compilers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome resources, learning materials, tools, frameworks, platforms, technologies and source code projects in the field of Compilers, Interpreters and Runtimes. This list has a bias towards education.
-
-[![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
------------------------------------------
 
 ## Contents
 
@@ -174,7 +170,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Java AOT (Ahead of Time) Compilation](https://2016.javazone.no/program/java-aot-compilation).
   * [MetaScala: A Tiny DIY JVM](https://skillsmatter.com/skillscasts/4916-metascala-a-tiny-diy-jvm) - Metascala is a tiny metacircular Java Virtual Machine (JVM) written in the Scala programming language.
   * [Meta-Tracing, RPython and PyPy](https://ia601503.us.archive.org/32/items/vmss16/bolz.pdf).
-  * [One VM to Rule Them All, One VM to Bind Them](https://www.youtube.com/watch?v=FJY96_6Y3a4) - Tutorial on the Truffel technology.
   * [Python, Linkers and Virtual Memory - PYCON US](https://www.youtube.com/watch?v=twQKAoq2OPE).
   * [Reverse Engineering the MOS 6502 CPU](https://youtube.com/watch?v=fWqBmmPQP40).
   * [Single Static Assignment Form Seminar](http://compilers.cs.uni-saarland.de/ssasem/) - Introductory seminar on SSA Form, Compiler Optimizations under it and its applications in other areas such as Program Analysis and Verification.
@@ -198,18 +193,9 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
     + [Part 3 - LLVM](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-3-llvm/).
     + [Part 4 - In Python](http://eli.thegreenplace.net/2017/adventures-in-jit-compilation-part-4-in-python/).
   * [ALIVe: Automatic LLVM InstCombine Verifier](https://blog.regehr.org/archives/1170).
-  * [Graal and Truffel](https://blog.plan99.net/graal-truffle-134d8f28fb69) - Obscure research project could radically accelerate innovation in programming language design.
-    + Discussions: [Reddit](https://redd.it/4tm4mj).
   * [How to Compile with Continuations](http://matt.might.net/articles/cps-conversion/).
-  * [Interpreter, Compiler and JIT](https://nickdesaulniers.github.io/blog/2015/05/25/interpreter-compiler-jit/).
   * [Introducing the B3 JIT Compiler](https://webkit.org/blog/5852/introducing-the-b3-jit-compiler/).
-  * [LLVM Architecture](http://www.aosabook.org/en/llvm.html) - Chapter from the book Architecture of Open Source Applications.
   * [Pratt Parsers: Expression Parsing Made Easy](http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/).
-  * [Rust Compiler Walk-Through](https://gchp.ie/2016/08/09/rust-compiler-walkthrough-introduction/).
-  * [Rust's Incremental Compilation](https://blog.rust-lang.org/2016/09/08/incremental.html).
-  * [Rust’s Upcoming MIR](https://blog.rust-lang.org/2016/04/19/MIR.html).
-  * [The Memory Models that Underlie Programming Languages](http://canonical.org/~kragen/memory-models/).
-
 
 ### Tutorials
 
@@ -221,7 +207,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Let’s Build A Simple Interpreter](https://ruslanspivak.com/lsbasi-part1/).
   * [Metacompiler Tutorial, Part 1](http://www.bayfronttechnologies.com/mc_tutorial.html).
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
-  * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
 
 ### Community Discussions
 
@@ -399,7 +384,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Verticals
 
-  * [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis).
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
   * [PLT Enlightenment](http://steshaw.org/plt/).
@@ -414,6 +398,4 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Ahmad Alhour](http://aalhour.com) has waived all copyright and related or neighboring rights to this work.
-
-The logo was designed using [TextCraft](https://textcraft.net).
+To the extent possible under law, [Ahmad Alhour](http://aalhour.de) has waived all copyright and related or neighboring rights to this work.
