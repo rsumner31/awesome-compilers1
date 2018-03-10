@@ -242,8 +242,8 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [A Tutorial Implementation of a Dependently Typed Lambda Calculus](https://www.andres-loeh.de/LambdaPi/).
   * [A Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html) - Tutorial for helping C & C++ programmers understand the essentials of what the linker does.
   * [Algorithm W Step By Step](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.65.7733&rep=rep1&type=pdf).
-  * [Building a LISP from scratch with Swift](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/).
   * [Compiler Optmization Tutorial](https://www.youtube.com/watch?v=SfV8aRX0YY0).
+  * [Hindley-Damas-Milner Tutorial](https://github.com/quchen/articles/tree/master/hindley-milner) - Extensively documented walkthrough for typechecking a basic functional language using the Hindley-Damas-Milner algorithm.
   * [How I Wrote a Programming Language, and How You Can Too](https://medium.com/@william01110111/the-programming-language-pipeline-91d3f449c919).
     + Discussions: [Reddit](https://redd.it/62ixbc).
   * [Implementing a JIT Compiled Language with Haskell and LLVM](http://www.stephendiehl.com/llvm/).
@@ -307,7 +307,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
 ### CLR
 
   * [Cecil](http://www.mono-project.com/docs/tools+libraries/libraries/Mono.Cecil/) - Library to generate and inspect programs and libraries in the ECMA CIL format.
-  * [DotNetPELib](https://github.com/LADSoft/DotNetPELib) - Library to read and write .net assemblies in C++11
   * [ILSpy](http://ilspy.net) - .NET Decompiler.
   * [Reflector](http://www.red-gate.com/products/dotnet-development/reflector/) - .NET Decompiler.
   * [Reflexil](http://sebastien.lebreton.free.fr/reflexil/) - Assembly code editor which can be used as a plugin with other .NET/CLR tools.
@@ -344,8 +343,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [IRHudra](http://mrale.ph/irhydra/2/) - Tool for displaying intermediate representations used by V8 and Dart VM optimizing compilers.
     + [GitHub Repo](https://github.com/mraleph/irhydra).
   * [JISON](http://zaa.ch/jison/docs/) - Context-free grammar parser generator for JavaScript.
-  * [Nearley](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parser toolkit for JavaScript.
-  * [Ohm](https://github.com/harc/ohm) - A library and language for building parsers, interpreters, compilers, etc.
   * [PEG.js](https://pegjs.org) - Simple parser generator for JavaScript.
 
 ### JVM
@@ -355,7 +352,6 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [CGLIB](https://github.com/cglib/cglib) - High level API library for generating and transforming Java Byte Code.
   * [FCP JVM](http://wiki.freepascal.org/FPC_JVM) - JVM Backend for generating Java Byte Code that conforms to the JDK v1.5+ Specification and the Dalvik VM.
   * [JavaCC](https://javacc.org) - Java Compiler Construction and Parser Generator Toolkit.
-  * [JavaCPP Presets for LLVM](https://github.com/bytedeco/javacpp-presets/tree/master/llvm) - Library for easily interacting with the LLVM API.
   * [JFlex](http://www.jflex.de) - JFlex is a lexical analyzer generator for Java with full Unicode support.
   * [JLex](http://www.cs.princeton.edu/~appel/modern/java/JLex/) - JLex is a lexical analyzer generator, that can be used in combination with CUP.
 
@@ -397,7 +393,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
   * [Babel.js](https://github.com/babel/babel) - Next-generation JavaScript Compiler.
   * [ChezScheme's Compiler](https://github.com/cisco/ChezScheme) - ChezScheme Language Compiler.
-  * [ELENA Compiler](https://github.com/ELENA-LANG/elena-lang) - Elena programming language.
   * [Eta' Compiler](https://github.com/typelead/eta) - JVM-based Compiler for the Eta Programming Language.
   * [Frege's Compiler](https://github.com/Frege/frege) - JVM-based Compiler for the Frege Programming Language.
   * [Gluon's Compiler](https://github.com/gluon-lang/gluon) - Embedded Language Compiler written in Rust.
@@ -415,8 +410,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ### Educational and Toy Projects
 
-  * [amacc](https://github.com/jserv/amacc) - Small C Compiler generating ELF executable for Arm architecture.
-    + Discussions: [HN](https://news.ycombinator.com/item?id=11411124).
   * [Black](http://www.is.ocha.ac.jp/~asai/Black/) - Scheme interpreter for the Reflective Programming Language "Black", by Kenichi Asai's.
     + Other sources: [GitHub Mirror](https://github.com/readevalprintlove/black).
   * [C4](https://github.com/rswier/c4) - C Lang in 4 Functions.
@@ -438,7 +431,6 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
   * [Poprc](https://github.com/HackerFoo/poprc) - Compiler for the Popr Language.
   * [PyCOOLC](https://github.com/aalhour/PyCOOLC) - Compiler for the COOL Programming Language written in Python 3.
   * [RabbitVM](https://github.com/rabbitvm/rabbit) - RISC-based VM implementation in C.
-  * [StackVM](https://github.com/KCreate/stackvm) - Virtual Machine with an integrated VRAM display.
   * [stack_cpu](https://github.com/dsturnbull/stack_cpu) - Stack-machine simulator.
   * [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler) - Tiny educational compiler project in JavaScript.
     + Discussions: [HN](https://news.ycombinator.com/item?id=11395656).
@@ -479,6 +471,7 @@ _This section aims at listing code projects of Compilers, Interpreters, Translat
 
 ## Verticals
 
+  * [68 Resources for Creating Programming Languages](https://tomassetti.me/resources-create-programming-languages/).
   * [Awesome Static Analysis](https://github.com/mre/awesome-static-analysis).
   * [Compiler Conferences, Workshops and Journals](https://github.com/MattPD/cpplinks/blob/master/compilers.md#conferences).
   * [Languages and Compilers Network Graph](https://mohd-akram.github.io/languages/).
